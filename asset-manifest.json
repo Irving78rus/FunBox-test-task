@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FunBox-test-task/static/css/main.876e4f77.css",
+    "main.js": "/FunBox-test-task/static/js/main.82d0b70f.js",
+    "static/js/787.85be35d2.chunk.js": "/FunBox-test-task/static/js/787.85be35d2.chunk.js",
+    "static/media/cat.png": "/FunBox-test-task/static/media/cat.8ed7599902673c40aafb.png",
+    "static/media/Trebuchet-MS.ttf": "/FunBox-test-task/static/media/Trebuchet-MS.737f1c250201dcfec8e3.ttf",
+    "static/media/pattern.png": "/FunBox-test-task/static/media/pattern.12fadeaf57ac4a51c51f.png",
+    "static/media/Exo2.0-Thin.otf": "/FunBox-test-task/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "static/media/logo.svg": "/FunBox-test-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FunBox-test-task/index.html",
+    "main.876e4f77.css.map": "/FunBox-test-task/static/css/main.876e4f77.css.map",
+    "main.82d0b70f.js.map": "/FunBox-test-task/static/js/main.82d0b70f.js.map",
+    "787.85be35d2.chunk.js.map": "/FunBox-test-task/static/js/787.85be35d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.876e4f77.css",
+    "static/js/main.82d0b70f.js"
+  ]
+}
