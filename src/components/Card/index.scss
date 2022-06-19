@@ -1,6 +1,6 @@
 @font-face {
-	font-family: 'Trebuchet-MS'; 
-	src: local('Trebuchet-MS') ,	url(../../assets/fonts/Trebuchet-MS.ttf); 
+  font-family: "Trebuchet-MS";
+  src: local("Trebuchet-MS"), url(../../assets/fonts/Trebuchet-MS.ttf);
 }
 .main-block {
   margin: 0 70px;
@@ -8,16 +8,15 @@
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
-  font-family: 'Trebuchet-MS';
+  font-family: "Trebuchet-MS";
 
   &__item {
     margin-bottom: 50px;
-     
 
     .item__info {
       width: 320px;
       cursor: pointer;
-      
+
       &-title {
         display: flex;
         height: 44px;
@@ -50,7 +49,7 @@
 
       &-subtext {
         position: relative;
-        
+
         overflow: hidden;
         width: 100%;
         height: 437px;
@@ -69,16 +68,15 @@
         }
 
         h2 {
-          
           margin-bottom: 15px;
           font-size: 48px;
           // на одной карточке есть тень, возможно это ошибка дизайна
-         // text-shadow: 0px 3px 5px rgba(150, 150, 150, 1);
+          // text-shadow: 0px 3px 5px rgba(150, 150, 150, 1);
           span {
             color: #000;
             display: block;
             font-size: 24px;
-           // text-shadow: 0px 0px 0px rgba(150, 150, 150, 1);
+            // text-shadow: 0px 0px 0px rgba(150, 150, 150, 1);
           }
         }
 
@@ -254,7 +252,7 @@
       line-height: 16px;
       text-align: center;
       color: #fff;
- 
+
       & > .disabled {
         color: #ffff66;
       }
